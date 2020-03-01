@@ -1,0 +1,9 @@
+Notebook containing analysis and results of power consumption data using SKLearn KMeans clustering tools. 
+Preprocessing, dataframe manipulation, optimal cluster number investigation, cluster plots. 
+
+V1 - March/3/2020 - contains initial analysis & results. 
+
+To do for future iterations:
+  -> define repeated functions (such as plotters, silhouette coefficient analyzers)
+  -> General format scrubbing
+  -> Expand analysis of results
